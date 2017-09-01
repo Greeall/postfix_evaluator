@@ -9,7 +9,7 @@ Evaluator has such operators:
 - division by modulus (%)
 - square of number (^2)
 - create duplicate top element of stack (dup)
-- create duplicate n-elements of top stack (dupn)
+- create duplicate n-elements of top of stack (dupn)
 - increment (inc)
 - decrement (dec)
 - swap (swap)
@@ -17,7 +17,7 @@ Evaluator has such operators:
 - cosine (cos)
 - sinus (sin)
 - delete top element of stack (pop)
-- delete n-elements from top stack (popn)
+- delete n-elements from top of stack (popn)
 - check size of stack (size)
 - create own variable/function (def)
 
